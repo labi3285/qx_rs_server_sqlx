@@ -1959,6 +1959,8 @@ dependencies = [
 [[package]]
 name = "qx_rs_server"
 version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "bce79c513268d9a574e7c00eb8f1066d5f6ca70aedb58491ae35f1dae3cb2c8e"
 dependencies = [
  "askama",
  "axum",

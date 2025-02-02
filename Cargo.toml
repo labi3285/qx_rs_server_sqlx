@@ -13,8 +13,7 @@ categories = ["web-programming"]
 
 [dependencies]
 
-#qx_rs_server = "0.1.0"
-qx_rs_server = { path = "../qx_rs_server" }
+qx_rs_server = "0.1.0"
 
 tracing = "0.1.40"
 tokio = { version = "1.37.0", features = ["full"] }
