@@ -1,2 +1,2 @@
-# qx_rs_server_sqlx
-best practice of server sqlx in rust.
+# qx_rs_server
+best practice of server in rust.
